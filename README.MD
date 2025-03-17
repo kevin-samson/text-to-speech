@@ -20,7 +20,7 @@ This is a simple **Text-to-Speech** application that runs locally and supports d
 2. **Install Dependencies**
 
    ```sh
-   npm install
+   npm prune --legacy-peer-deps
    ```
 
 3. **Start the Application**
